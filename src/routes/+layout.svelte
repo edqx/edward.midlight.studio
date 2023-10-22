@@ -26,7 +26,7 @@
                     <span class="text-2xl p-2">9 Years Experience</span>
                     <span class="text-2xl p-2">Based in North-West England</span>
                     <span class="text-2xl p-2">Working on Edith @ <a href="https://midlight.studio">midlight.studio</a></span>
-                    <span class="text-2xl p-2">Studying Maths and Philosophy at<br>University of Sheffield</span>
+                    <span class="text-2xl p-2 text-right">Studying Maths and Philosophy at<br>University of Sheffield</span>
                 </div>
                 <div
                     class="flex flex-1"

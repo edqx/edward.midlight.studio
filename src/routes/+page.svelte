@@ -10,7 +10,7 @@
 <div class="w-full sm:hidden">
     <div class="min-h-screen w-full flex p-2">
         <div class="flex flex-col w-full justify-center items-center gap-16">
-            <div class="flex flex-col">
+            <div class="flex flex-col items-center gap-2">
                 <span class="font-bold text-5xl italic">Edward Smale</span>
                 <ul>
                     <li class="text-2xl">Full-Stack Developer</li>
@@ -29,7 +29,7 @@
             <span class="text-2xl">7 Years Experience</span>
             <span class="text-2xl">Based in North-West England</span>
             <span class="text-2xl">Working on Edith @ <a href="https://midlight.studio">midlight.studio</a></span>
-            <span class="text-2xl text-right">Studying Maths and Philosophy at<br>University of Sheffield</span>
+            <span class="text-2xl">Studying Maths and Philosophy at <a href="https://www.sheffield.ac.uk/">University of Sheffield</a></span>
         </div>
         <div class="p-2">
             <KnowledgeList/>

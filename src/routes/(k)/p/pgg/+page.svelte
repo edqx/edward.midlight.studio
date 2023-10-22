@@ -18,12 +18,7 @@
     The actual project was cut short due to several complex reasons, but it was a great experience for me
     working with a larger team and with artists.
     <br><br>
-    <div class="w-full flex flex-col items-center">
-        <div class="flex flex-col items-end gap-1">
-            <span class="text-2xl">Polus.GG:&nbsp;Rewritten</span>
-            <span>2021, 2023</span>
-        </div>
-    </div>
+    <span class="text-2xl">Polus.GG: Rewritten</span>
     <br>
     Towards the end of my time at Polus.GG, I had begun working on a rewrite of the entire project solo,
     which I codenamed "Mouthwash". I ended up cutting this short too as an update to the game set back my progress

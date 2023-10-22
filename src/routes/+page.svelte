@@ -12,8 +12,10 @@
         <div class="flex flex-col w-full justify-center items-center gap-16">
             <div class="flex flex-col">
                 <span class="font-bold text-5xl italic">Edward Smale</span>
-                <span class="text-2xl">Full-Stack Developer</span>
-                <span class="text-2xl opacity-85">Game Designer</span>
+                <ul>
+                    <li class="text-2xl">Full-Stack Developer</li>
+                    <li class="text-2xl opacity-80">Game Designer</li>
+                </ul>
             </div>
             <div class="flex items-end">
                 <Chevron/>
@@ -38,9 +40,29 @@
     <div class="flex flex-col justify-center items-center gap-16">
         <div class="flex flex-col">
             <span class="font-bold text-5xl sm:text-7xl italic">Edward Smale</span>
-            <span class="text-3xl">Full-Stack Developer</span>
-            <span class="text-3xl opacity-85">Game Designer</span>
+            <ul>
+                <li class="text-2xl">Full-Stack Developer</li>
+                <li class="text-2xl opacity-80">Game Designer</li>
+            </ul>
         </div>
         <KnowledgeList/>
     </div>
 </div>
+
+<style>
+    ul {
+        list-style: none;
+        margin-left: 0;
+        padding-left: 0;
+    }
+
+    li {
+        padding-left: 1em;
+        text-indent: -2em;
+    }
+
+    li:before {
+        content: "✿";
+        padding-right: 5px;
+    }
+</style>

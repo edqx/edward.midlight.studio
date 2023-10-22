@@ -12,7 +12,7 @@
     </div>
     <div class="flex flex-col items-center gap-8">
         <slot name="images"/>
-        <p class="lg:w-160">
+        <p class="p-2 sm:p-8 lg:p-0 lg:w-160">
             <slot/>
         </p>
     </div>

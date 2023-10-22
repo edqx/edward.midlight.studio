@@ -51,7 +51,7 @@
     }
 
     :global(a) {
-        color: #4287f5;
+        color: #5379d4;
         font-weight: 800;
     }
 

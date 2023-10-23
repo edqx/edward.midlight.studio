@@ -7,7 +7,7 @@
 </svelte:head>
 
 <Project>
-    <span slot="name">AUProximity</span>
+    <span slot="name"><span class="text-5xl sm:text-7xl">AUProximity</span></span>
     <span slot="time">2021-2022</span>
 
     AUProximity was a freely accessible website for players of the video game Among Us to play in a way that allows

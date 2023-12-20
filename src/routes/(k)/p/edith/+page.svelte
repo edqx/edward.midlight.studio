@@ -25,6 +25,6 @@
     learning Unity or any programming.
     <br><br>
     In terms of technical specifics, Edith aims to have a fully 3d lighting system with weather and dynamic puddles,
-    audio and shaders depending on in-game time. The new engine will use the <a href="https://ziglang.org">Zig</a>
-    programming language, with the <a href="https://v8.dev/">V8 JavaScript</a> runtime embedded for scripting.
+    audio and shaders depending on in-game time. The new engine will use the <a href="https://nim-lang.org/">Nim</a>
+    programming language, with a web-based real-time editor that focuses on user-friendliness and accessibility.
 </Project>

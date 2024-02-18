@@ -1,5 +1,4 @@
 <script lang="ts">
-    import Gallery from "../../Gallery.svelte";
     import Project from "../Project.svelte";
 </script>
 
@@ -10,7 +9,6 @@
 <Project>
     <span slot="name">Edith</span>
     <span slot="time">Since 2022</span>
-    <Gallery slot="images" name="Edith" imageSrcs={[ "/edith-1.png", "/edith-2.png", "/edith-3.png", "/edith-4.png" ]}/>
 
     Edith is by far my most ambitious project, and I am working on it with a friend who is responsible
     for the artwork as well as the story with me. Initially, I was using <a href="https://unity.com/">Unity</a>

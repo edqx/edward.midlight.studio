@@ -21,10 +21,12 @@
     files can be imported into Unity using it's <a href="https://docs.unity3d.com/Manual/ScriptedImporters.html">scripted importer</a>
     feature.
     <br><br>
-    It was a good exercise in making a user interface that was intuitive and easy to use for non-programmers, it was
+    It was a great exercise in making a user interface that was intuitive and easy to use for non-programmers, it was
     complimented on its ease of use and how quick it is to immediately get started writing dialogues with new or existing
     characters.
     <br><br>
     It uses <a href="https://tauri.app">Tauri</a> to render the HTML, JS and CSS as a desktop app, and <a href="https://supabase.com">Supabase</a>
     to allow users to publish dialogues either publicly or privately to selected users.
+    <br><br>
+    Chronicle has since been superseded by <a href="/p/constellation">Constellation</a>.
 </Project>

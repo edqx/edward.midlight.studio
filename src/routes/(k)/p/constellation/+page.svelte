@@ -7,7 +7,7 @@
 </svelte:head>
 
 <Project>
-    <span slot="name">Constellation</span>
+    <span class="-sm:text-6xl" slot="name">Constellation</span>
     <span slot="time">Since 2023</span>
 
     Using many lessons learnt from my time working on <a href="/p/chronicle">Chronicle</a>, as well

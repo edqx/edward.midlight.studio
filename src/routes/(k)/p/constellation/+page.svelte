@@ -23,7 +23,7 @@
     <br><br>
     It can be seen as a <strong>successor</strong> to Chronicle. The editor is made up of 3 web-based elements: Atlas - for
     world-building, Blossom - for cutscenes, fights and sequences, and, in fact, Chronicle - for dialogues, items and characters.
-    The central engine backend codebase combines all three, forming Constellation.
+    The entire editor is fully real-time, meaning that team members can see everyone changes immediately as they are made.
     <br><br>
     The engine makes use of <a href="https://www.opengl.org/">OpenGL</a>, <a href="https://freetype.org/">FreeType</a> and can
     make builds for both <a href="https://webassembly.org/">WASM</a> (for integration with the web editors) and native, using the

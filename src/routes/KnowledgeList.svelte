@@ -1,41 +1,42 @@
+<script lang="ts">
+    import CollectiveHover from "./CollectiveHover.svelte";
+    import CollectiveHoverLink from "./CollectiveHoverLink.svelte";
+</script>
+
 <div class="flex flex-col gap-6">
     <div class="flex flex-col gap-1">
         <span>Tools</span>
         <div class="flex flex-wrap gap-4">
-            <div class="flex flex-row flex-wrap gap-4 group">
-                <a href="/t/js" class="text-2xl group-hover:opacity-40 !hover:opacity-100 transition-opacity">JavaScript</a>
-                <a href="/t/cpp" class="text-2xl group-hover:opacity-40 !hover:opacity-100 transition-opacity">C++</a>
-                <a href="/t/csharp" class="text-2xl group-hover:opacity-40 !hover:opacity-100 transition-opacity">C#</a>
-                <a href="/t/svelte" class="text-2xl group-hover:opacity-40 !hover:opacity-100 transition-opacity">Svelte</a>
-                <a href="/t/tauri" class="text-2xl group-hover:opacity-40 !hover:opacity-100 transition-opacity">Tauri</a>
-            </div>
+            <CollectiveHover>
+                <CollectiveHoverLink href="/t/js">JavaScript</CollectiveHoverLink>
+                <CollectiveHoverLink href="/t/zig">Zig</CollectiveHoverLink>
+                <CollectiveHoverLink href="/t/cpp">C++</CollectiveHoverLink>
+                <CollectiveHoverLink href="/t/csharp">C#</CollectiveHoverLink>
+                <CollectiveHoverLink href="/t/svelte">Svelte</CollectiveHoverLink>
+                <CollectiveHoverLink href="/t/tauri">Tauri</CollectiveHoverLink>
+                <CollectiveHoverLink href="/t/tailwind">Tailwind</CollectiveHoverLink>
+            </CollectiveHover>
         </div>
     </div>
     <div class="flex flex-col gap-1">
         <span>Projects</span>
-        <div class="flex flex-wrap gap-4 group">
-            <a href="/p/edith" class="text-2xl group-hover:opacity-40 !hover:opacity-100 transition-opacity">Edith</a>
-            <a href="/p/raincode" class="text-2xl group-hover:opacity-40 !hover:opacity-100 transition-opacity">Raincode</a>
-            <a href="/p/chronicle" class="text-2xl group-hover:opacity-40 !hover:opacity-100 transition-opacity">Chronicle</a>
-            <a href="/p/skeldjs" class="text-2xl group-hover:opacity-40 !hover:opacity-100 transition-opacity">Skeld.JS</a>
-            <a href="/p/auproximity" class="text-2xl group-hover:opacity-40 !hover:opacity-100 transition-opacity">AUProximity</a>
-            <a href="/p/pgg" class="text-2xl group-hover:opacity-40 !hover:opacity-100 transition-opacity">Polus.GG</a>
-            <a href="/p/swagclan" class="text-2xl group-hover:opacity-40 !hover:opacity-100 transition-opacity">SwagClan</a>
-            <a href="/p/ryuujin" class="text-2xl group-hover:opacity-40 !hover:opacity-100 transition-opacity">Ryuujin</a>
-        </div>
+        <CollectiveHover>
+            <CollectiveHoverLink href="/p/constellation">Constellation</CollectiveHoverLink>
+            <CollectiveHoverLink href="/p/edith">Edith</CollectiveHoverLink>
+            <CollectiveHoverLink href="/p/raincode">Raincode</CollectiveHoverLink>
+            <CollectiveHoverLink href="/p/chronicle">Chronicle</CollectiveHoverLink>
+            <CollectiveHoverLink href="/p/skeldjs">Skeld.JS</CollectiveHoverLink>
+            <CollectiveHoverLink href="/p/auproximity">AUProximity</CollectiveHoverLink>
+            <CollectiveHoverLink href="/p/pgg">Polus.GG</CollectiveHoverLink>
+            <CollectiveHoverLink href="/p/swagclan">SwagClan</CollectiveHoverLink>
+            <CollectiveHoverLink href="/p/ryuujin">Ryuujin</CollectiveHoverLink>
+        </CollectiveHover>
     </div>
     <div class="flex flex-col gap-1">
         <span>Contact</span>
         <div class="flex flex-wrap gap-4 group">
-            <a href="https://github.com/edqx" class="text-2xl group-hover:opacity-40 !hover:opacity-100 transition-opacity">GitHub</a>
-            <a href="mailto:edward@midlight.studio" class="text-2xl group-hover:opacity-40 !hover:opacity-100 transition-opacity">Email</a>
+            <CollectiveHoverLink href="https://github.com/edqx">GitHub</CollectiveHoverLink>
+            <CollectiveHoverLink href="mailto:edward@midlight.studio">Email</CollectiveHoverLink>
         </div>
     </div>
 </div>
-
-<style>
-    a {
-        color: inherit;
-        font-weight: 400;
-    }
-</style>

@@ -9,7 +9,7 @@
 
 <Project>
     <span slot="name">Chronicle</span>
-    <span slot="time">Since 2022</span>
+    <span slot="time">2022-2023</span>
     <Gallery slot="images" name="Chronicle" imageSrcs={[ "/chronicle-1.png", "/chronicle-2.png", "/chronicle-3.png", "/chronicle-4.png", "/chronicle-5.png", "/chronicle-6.png" ]}/>
 
     Chronicle was created for my other project <a href="/p/edith">Edith</a> to allow both me and another person to

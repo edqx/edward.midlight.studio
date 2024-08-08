@@ -62,7 +62,7 @@
     }
 
     li:before {
-        content: "✿";
+        content: "✦";
         padding-right: 5px;
     }
 </style>

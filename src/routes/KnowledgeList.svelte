@@ -8,8 +8,8 @@
         <span>Tools</span>
         <div class="flex flex-wrap gap-4">
             <CollectiveHover>
-                <CollectiveHoverLink href="/t/js">JavaScript</CollectiveHoverLink>
                 <CollectiveHoverLink href="/t/zig">Zig</CollectiveHoverLink>
+                <CollectiveHoverLink href="/t/js">JavaScript</CollectiveHoverLink>
                 <CollectiveHoverLink href="/t/cpp">C++</CollectiveHoverLink>
                 <CollectiveHoverLink href="/t/csharp">C#</CollectiveHoverLink>
                 <CollectiveHoverLink href="/t/svelte">Svelte</CollectiveHoverLink>

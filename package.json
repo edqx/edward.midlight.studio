@@ -20,6 +20,8 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sveltejs/adapter-node": "^5.2.5",
 		"vite-plugin-windicss": "^1.9.1"
-	}
+	},
+	"packageManager": "yarn@4.5.0"
 }

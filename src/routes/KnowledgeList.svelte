@@ -36,7 +36,7 @@
         <span>Contact</span>
         <div class="flex flex-wrap gap-4 group">
             <CollectiveHoverLink href="https://github.com/edqx">GitHub</CollectiveHoverLink>
-            <CollectiveHoverLink href="mailto:edward@midlight.studio">Email</CollectiveHoverLink>
+            <CollectiveHoverLink href="mailto:self@esma.rocks">Email</CollectiveHoverLink>
         </div>
     </div>
 </div>

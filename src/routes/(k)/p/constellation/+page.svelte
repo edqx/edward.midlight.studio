@@ -23,7 +23,7 @@
     <br><br>
     Internally, the Constellation editor and engine use a custom protocol and archive solution, both of which are declared in an
     XML spec document. The editor is written in <a href="/t/javascript">HTML5</a> accessible on any device, and the
-    engine is written in <a href="/t/zig">Zig</a>
+    engine is written in <a href="/t/zig">Zig</a>.
     <br><br>
     The engine makes use of <a href="https://www.opengl.org/">OpenGL</a>, <a href="https://freetype.org/">FreeType</a> and can
     make builds for both <a href="https://webassembly.org/">WASM</a> (for integration with the web editors) and native, using the

@@ -34,9 +34,10 @@
     </div>
     <div class="flex flex-col gap-1">
         <span>Contact</span>
-        <div class="flex flex-wrap gap-4 group">
+        <CollectiveHover>
             <CollectiveHoverLink href="https://github.com/edqx">GitHub</CollectiveHoverLink>
             <CollectiveHoverLink href="mailto:self@esma.rocks">Email</CollectiveHoverLink>
-        </div>
+            <CollectiveHoverLink href="/CV-Redacted.pdf">CV</CollectiveHoverLink>
+        </CollectiveHover>
     </div>
 </div>

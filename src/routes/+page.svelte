@@ -26,7 +26,7 @@
     </div>
     <div class="flex flex-col gap-32 mb-16">
         <div class="w-full flex flex-col p-2 gap-6 justify-around">
-            <span class="text-2xl">7 Years Experience</span>
+            <span class="text-2xl">8 Years Experience</span>
             <span class="text-2xl">Based in North-West England</span>
             <span class="text-2xl">Working on Edith @ <a href="https://midlight.studio">midlight.studio</a></span>
             <span class="text-2xl">Studying Maths and Philosophy at <a href="https://www.sheffield.ac.uk/">University of Sheffield</a></span>
@@ -42,7 +42,7 @@
             <span class="font-bold text-5xl sm:text-7xl italic">Edward Smale</span>
             <ul>
                 <li class="text-2xl">Full-Stack Developer</li>
-                <li class="text-2xl opacity-80">Game Designer</li>
+                <li class="text-2xl opacity-90">Game Designer</li>
             </ul>
         </div>
         <KnowledgeList/>

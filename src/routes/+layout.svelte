@@ -23,7 +23,7 @@
         <div class="hidden sm:block">
             <div class="w-full min-h-screen flex flex-col items-center text-[#1c1c1c]">
                 <div class="w-full flex flex-wrap justify-around">
-                    <span class="text-2xl p-2">7 Years Experience</span>
+                    <span class="text-2xl p-2">8 Years Experience</span>
                     <span class="text-2xl p-2">Based in North-West England</span>
                     <span class="text-2xl p-2">Working on Edith @ <a href="https://midlight.studio">midlight.studio</a></span>
                     <span class="text-2xl p-2 text-right">Studying Maths and Philosophy at<br><a href="https://www.sheffield.ac.uk/">University of Sheffield</a></span>

@@ -21,4 +21,7 @@
     implement tools such as <a href="https://prometheus.io/">Prometheus</a>, <a href="https://grafana.com/">Grafana</a>
     and <a href="https://glitchtip.com/">Glitchtip</a> to record errors that users might encounter to fix them as
     soon as possible.
+    <br><br>
+    The website had over 10,000 members in its Discord server, and had code and idea contributions from players, and so
+    a big task was listening to feedback to fix bugs and implement new features.
 </Project>

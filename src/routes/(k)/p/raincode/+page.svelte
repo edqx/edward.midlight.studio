@@ -12,7 +12,11 @@
     <span slot="time">Jan. 2022-Apr. 2022</span>
     <Gallery slot="images" name="Raincode" imageSrcs={[ "/raincode-1.png", "/raincode-2.png", "/raincode-3.png", "/raincode-4.png", "/raincode-5.png", "/raincode-6.png" ]}/>
 
-    Raincode was a project as part of my college course's final NEA (Non-Exam Assessment). It was ambitious for college projects
+    Raincode was a project as part of my college course's final NEA (Non-Exam Assessment). My teacher described it was "inspiring"
+    and it is the most work he's seen done for an NEA project. I received an A* which contributed 20% to my final computer science
+    grade.
+    
+      It was ambitious for college projects
     and vastly surpassed every other project submitted that year for the exam board, described by my teacher as being inspiring
     and the most work he's ever seen done for an NEA project. I received an A* which contributed 20% to my final grade for
     Computer Science.

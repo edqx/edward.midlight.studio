@@ -20,12 +20,12 @@
     <br><br>
     <span class="text-2xl">Polus.GG: Rewritten</span>
     <br>
-    Towards the end of my time at Polus.GG, I had begun working on a rewrite of the entire project solo,
+    Towards the end of my time at Polus.GG, I had begun working on a rewrite of the back-end solo,
     which I codenamed "Mouthwash". I ended up cutting this short too as an update to the game set back my progress
     by a lot.
     <br><br>
     However, in 2023, I decided to revive Polus.GG: Rewritten, initially using the same version of the game as
-    before the update that set my progress back. This was an enormous task, as I put myself in task of rewriting
-    even more of the Polus.GG codebase, including an entirely new launcher, load-balancer, as well as several
-    more gamemodes and, later, a new client for the latest version of the game.
+    before the update that set my progress back. I ended up rewriting even more of the Polus.GG codebase, including
+    an entirely new launcher, load-balancer, as well as several more gamemodes and, later, a new client for the 
+    latest version of the game.
 </Project>

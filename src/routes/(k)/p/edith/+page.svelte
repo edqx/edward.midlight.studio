@@ -15,7 +15,7 @@
     for it, however due to some changes in the management at Unity as well as some personal dissatisfaction with
     it, I have since decided to take up the task of making my own specialised engine for the project, <a href="/p/constellation">Constellation</a>.
     <br><br>
-    The scope for Edith is vast compared to all of my other projects, it is an ambition that will take
+    The scope for Edith is a lot larger than my other projects and it is an ambition that will take
     years to fulfil and will require lots of work in both story design and tools. Constellation was created
     to help me and my other team member to quickly design, prototype and ultimately produce entire conversations,
     cutscenes, fights, maps, item behaviours, shaders, and any other aspects of the game without writing a single

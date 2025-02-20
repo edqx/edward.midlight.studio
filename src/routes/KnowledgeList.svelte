@@ -14,7 +14,7 @@
                 <CollectiveHoverLink href="/t/csharp">C#</CollectiveHoverLink>
                 <CollectiveHoverLink href="/t/svelte">Svelte</CollectiveHoverLink>
                 <CollectiveHoverLink href="/t/tauri">Tauri</CollectiveHoverLink>
-                <CollectiveHoverLink href="/t/tailwind">Tailwind</CollectiveHoverLink>
+                <!--<CollectiveHoverLink href="/t/tailwind">Tailwind</CollectiveHoverLink>-->
             </CollectiveHover>
         </div>
     </div>
@@ -24,12 +24,12 @@
             <CollectiveHoverLink href="/p/constellation">Constellation</CollectiveHoverLink>
             <CollectiveHoverLink href="/p/edith">Edith</CollectiveHoverLink>
             <CollectiveHoverLink href="/p/raincode">Raincode</CollectiveHoverLink>
-            <CollectiveHoverLink href="/p/chronicle">Chronicle</CollectiveHoverLink>
+            <!--<CollectiveHoverLink href="/p/chronicle">Chronicle</CollectiveHoverLink>-->
             <CollectiveHoverLink href="/p/skeldjs">Skeld.JS</CollectiveHoverLink>
             <CollectiveHoverLink href="/p/auproximity">AUProximity</CollectiveHoverLink>
             <CollectiveHoverLink href="/p/pgg">Polus.GG</CollectiveHoverLink>
-            <CollectiveHoverLink href="/p/swagclan">SwagClan</CollectiveHoverLink>
-            <CollectiveHoverLink href="/p/ryuujin">Ryuujin</CollectiveHoverLink>
+            <!--<CollectiveHoverLink href="/p/swagclan">SwagClan</CollectiveHoverLink>
+            <CollectiveHoverLink href="/p/ryuujin">Ryuujin</CollectiveHoverLink>-->
         </CollectiveHover>
     </div>
     <div class="flex flex-col gap-1">
